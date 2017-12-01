@@ -1,5 +1,7 @@
 body {
   background-color: #ffffff;
+  font-family: 'Port Lligat Slab', serif;
+  font-size: 18px;
 }
 
 div.container {
@@ -63,7 +65,7 @@ caption {
   color: #522d80;
   font-size: 24px;
   font-weight: bold;
-  font-family: 'Port Lligat Slab', serif;
+  font-family: 'Graduate', cursive;
 }
 
 thead {
@@ -178,7 +180,5 @@ h3 {
 
 p {
   text-align: left;
-  font-family: 'Port Lligat Slab', serif;
-  font-size: 18px;
   line-height: 1.5;
 }
